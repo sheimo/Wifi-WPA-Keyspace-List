@@ -49,11 +49,11 @@ Belkin.XXXX-[0-9A-F][len8]
     
 belkin.xxxx-[2-9a-f][len8]    
     https://github.com/wpatoolkit/8-Hex-Generator
-    https://raw.githubusercontent.com/router...Keygen.cpp
+    https://raw.githubusercontent.com/routerkeygen/routerkeygenPC/master/src/algorithms/BelkinKeygen.cpp
     https://bitbucket.org/dudux/belkin4xx
     https://github.com/Konsole512/Crippled
     http://www.routerpwn.com/belkinwpa/
-    https://raw.githubusercontent.com/devtty...n/pingen.c
+    https://raw.githubusercontent.com/devttys0/wps/master/pingens/belkin/pingen.c
     
 Belkin_XXXXXX-[0-9A-F][len8]    
     https://github.com/wpatoolkit/8-Hex-Generator
