@@ -32,17 +32,17 @@ Axtel
     https://raw.githubusercontent.com/routerkeygen/routerkeygenPC/master/src/algorithms/AxtelKeygen.cpp
     
 belkin.xxx-[2-9a-f][len8]    
-    https://github.com/wpatoolkit/8-Hex-Generator
+    [https://github.com/wpatoolkit/8-Hex-Generator](https://github.com/wpatoolkit/8-Hex-Generator)
     
-    https://raw.githubusercontent.com/routerkeygen/routerkeygenPC/master/src/algorithms/BelkinKeygen.cpp
+    [https://raw.githubusercontent.com/routerkeygen/routerkeygenPC/master/src/algorithms/BelkinKeygen.cpp](https://raw.githubusercontent.com/routerkeygen/routerkeygenPC/master/src/algorithms/BelkinKeygen.cpp)
     
-    https://bitbucket.org/dudux/belkin4xx
+    [https://bitbucket.org/dudux/belkin4xx](https://bitbucket.org/dudux/belkin4xx)
     
-    https://github.com/Konsole512/Crippled
+    [https://github.com/Konsole512/Crippled](https://github.com/Konsole512/Crippled)
     
-    http://www.routerpwn.com/belkinwpa/
+    [http://www.routerpwn.com/belkinwpa/](http://www.routerpwn.com/belkinwpa/)
     
-    https://raw.githubusercontent.com/devttys0/wps/master/pingens/belkin/pingen.c
+    [https://raw.githubusercontent.com/devttys0/wps/master/pingens/belkin/pingen.c](https://raw.githubusercontent.com/devttys0/wps/master/pingens/belkin/pingen.c)
     
 Belkin.XXXX-[0-9A-F][len8]    
     https://github.com/wpatoolkit/8-Hex-Generator
